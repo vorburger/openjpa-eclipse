@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: OpenJPA Eclipse Tools Test Fragment
 Bundle-SymbolicName: org.apache.openjpa.eclipse.tests
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 1.0.0
 Fragment-Host: org.apache.openjpa.eclipse;bundle-version="1.0.0"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Require-Bundle: org.apache.openjpa,

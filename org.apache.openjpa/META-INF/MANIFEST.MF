@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: OpenJPA Plug-in
 Bundle-SymbolicName: org.apache.openjpa
-Bundle-Version: 1.2.1.qualifier
+Bundle-Version: 1.2.1
 Require-Bundle: org.apache.commons.logging
 Eclipse-BuddyPolicy: dependent
 Bundle-ClassPath: lib/geronimo-jms_1.1_spec-1.0.1.jar,
